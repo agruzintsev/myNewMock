@@ -1,0 +1,4 @@
+com\example\newMock\controller\MainController.class
+com\example\newMock\model\ResponseDTO.class
+com\example\newMock\NewMockApplication.class
+com\example\newMock\model\RequestDTO.class
